@@ -1,0 +1,88 @@
+{
+  "samples": [
+    {
+      "sample_id": "S1",
+      "genomics": {
+        "SNPs": {
+          "rs123": "AA",
+          "rs456": "AG",
+          "rs789": "GG"
+        }
+      },
+      "transcriptomics": {
+        "TP53": 12.5,
+        "MYC": 8.3,
+        "MAPK1": 15.2,
+        "CDKN1A": 7.1,
+        "AKT1": 9.4
+      },
+      "proteomics": {
+        "TP53": 3.2,
+        "MYC": 1.8,
+        "MAPK1": 4.5,
+        "CDKN1A": 2.1,
+        "AKT1": 3.8
+      },
+      "phenotype": {
+        "migration_speed": 0.45,
+        "differentiation_marker": 0.32
+      }
+    },
+    {
+      "sample_id": "S2",
+      "genomics": {
+        "SNPs": {
+          "rs123": "AG",
+          "rs456": "GG",
+          "rs789": "AG"
+        }
+      },
+      "transcriptomics": {
+        "TP53": 11.2,
+        "MYC": 7.5,
+        "MAPK1": 16.1,
+        "CDKN1A": 6.8,
+        "AKT1": 10.0
+      },
+      "proteomics": {
+        "TP53": 3.0,
+        "MYC": 2.0,
+        "MAPK1": 4.8,
+        "CDKN1A": 2.0,
+        "AKT1": 4.1
+      },
+      "phenotype": {
+        "migration_speed": 0.50,
+        "differentiation_marker": 0.35
+      }
+    },
+    {
+      "sample_id": "S3",
+      "genomics": {
+        "SNPs": {
+          "rs123": "GG",
+          "rs456": "AG",
+          "rs789": "AA"
+        }
+      },
+      "transcriptomics": {
+        "TP53": 13.0,
+        "MYC": 8.9,
+        "MAPK1": 14.7,
+        "CDKN1A": 7.5,
+        "AKT1": 9.8
+      },
+      "proteomics": {
+        "TP53": 3.5,
+        "MYC": 1.7,
+        "MAPK1": 4.2,
+        "CDKN1A": 2.2,
+        "AKT1": 3.9
+      },
+      "phenotype": {
+        "migration_speed": 0.48,
+        "differentiation_marker": 0.33
+      }
+    }
+  ]
+}

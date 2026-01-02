@@ -2,9 +2,10 @@
 ### Multi-Scale Causal Inference via VGAE & Neural ODE
 
 ![Vercel Deployment](https://img.shields.io/badge/Vercel-Hosted-000000?style=for-the-badge&logo=vercel&logoColor=white)
-(https://multi-scale-platform.vercel.app)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+https://multi-scale-platform.vercel.app
 
 > **Note:** This project was developed during an AI Hackathon. The codebase is a mix of human-written logic and AI-assisted generation, focused on rapid prototyping of complex biological modeling concepts.
 

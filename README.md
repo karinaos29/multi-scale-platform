@@ -1,8 +1,8 @@
 # 🧬 The Chronos Platform
 ### Multi-Scale Causal Inference via VGAE & Neural ODE
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Hosted-000000?style=for-the-badge&logo=vercel&logoColor=white)]
-[(https://multi-scale-platform.vercel.app)]
+![Vercel Deployment](https://img.shields.io/badge/Vercel-Hosted-000000?style=for-the-badge&logo=vercel&logoColor=white)
+(https://multi-scale-platform.vercel.app)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 💡 Overview
+## Overview
 
 **The Chronos Platform** is a proof-of-concept interface for uncovering causal regulatory networks that link genetic variation, multi-omics data, and dynamic cellular phenotypes.
 
@@ -24,7 +24,7 @@ Biological systems operate across vast spatial and temporal scales. Genetic vari
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 The system visualizes a two-stage, multi-modal AI architecture:
 
@@ -82,7 +82,7 @@ To run this project locally:
 
 ---
 
-## 🔬 Scientific Validation & QA
+## Scientific Validation & QA
 
 While this is a prototype, the theoretical framework relies on rigorous validation methods:
 * **Mendelian Randomization (MR):** Used to validate causal links between $z$ factors and the final phenotype.
